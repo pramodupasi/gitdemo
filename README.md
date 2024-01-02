@@ -1,2 +1,2 @@
 # gitdemo
-git hub demo
+This is git hub demo of git reprository
