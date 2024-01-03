@@ -1,3 +1,2 @@
 # gitdemo
-This is git hub demo of git reprository
-/////////////////////////.,mnm,./
+This is git hub demo of git reprository.
